@@ -1,0 +1,2 @@
+pysnmp>=4.4.12
+ipaddress; python_version < '3.3'
